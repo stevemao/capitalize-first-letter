@@ -1,6 +1,6 @@
 {
   "name": "capitalize-first-letter",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "capitalize the first letter of a string",
   "main": "index.js",
   "devDependencies": {
