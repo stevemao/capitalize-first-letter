@@ -1,0 +1,29 @@
+{
+  "name": "capitalize-first-letter",
+  "version": "0.0.0",
+  "description": "capitalize the first letter of a string",
+  "main": "index.js",
+  "devDependencies": {
+    "tape": "^4.5.1",
+    "markdown-code-blocks": "^0.0.1"
+  },
+  "scripts": {
+    "test": "markdown-code-blocks -t javascript < README.md | node"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/stevemao/capitalize-first-letter.git"
+  },
+  "bugs": {
+    "type": "git",
+    "url": "git://github.com/stevemao/capitalize-first-letter/issues"
+  },
+  "homepage": "https://github.com/stevemao/capitalize-first-letter",
+  "keywords": [
+    "capitalize",
+    "first",
+    "letter"
+  ],
+  "author": "Steve Mao <maochenyan@gmail.com>",
+  "license": "MIT"
+}
